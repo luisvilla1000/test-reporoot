@@ -1,0 +1,6 @@
+[submodule "core-drupal"]
+	path = core-drupal
+	url = https://github.com/luisvilla1000/test-repochild1
+[submodule "site1"]
+	path = site1
+	url = git@github.com:luisvilla1000/test-repochild2.git
